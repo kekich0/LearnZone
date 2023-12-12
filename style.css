@@ -1,0 +1,784 @@
+body {
+    width: 1440px; 
+    height: 1480px; 
+    background-color: #f2f2f2;
+    font-family: 'Press Start 2P', cursive;
+}
+.courseofprog {
+    margin-left: 70px;
+    width: 935px;
+    height: 48px;
+    color: #000;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+
+.photo1 {
+    top: 164px;
+    left: 140px;
+    width: 271px;
+    position: absolute;
+    height: 246px;
+    background: #D9D9D9;
+
+}
+
+.photo2 {
+    top: 164px;
+    left: 460px;
+    width: 271px;
+    height: 246px;
+    background: #D9D9D9;
+    position: absolute;
+}
+
+.photo3 {
+    top: 164px;
+    left: 780px;
+    width: 271px;
+    height: 246px;
+    background: #D9D9D9;
+    position: absolute;
+}
+
+.photo4 {
+    top: 164px;
+    left: 1100px;
+    width: 271px;
+    height: 246px;
+    background: #D9D9D9;
+    position: absolute;
+}
+
+.Text_To_photo1 {
+
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 300px;
+    width: 259px;
+    height: 48px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Mulish;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo2 {
+
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 300px;
+    width: 259px;
+    height: 48px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Mulish;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo3 {
+
+    position: absolute;
+    margin-left: 770px;
+    margin-top: 300px;
+    width: 259px;
+    height: 48px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Mulish;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo4 {
+
+    position: absolute;
+    margin-left: 1090px;
+    margin-top: 300px;
+    width: 259px;
+    height: 48px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Mulish;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo1_under {
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 380px;
+    width: 249px;
+    height: 82px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo2_under {
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 380px;
+    width: 249px;
+    height: 82px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo3_under {
+    position: absolute;
+    margin-left: 770px;
+    margin-top: 380px;
+    width: 249px;
+    height: 82px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo4_under {
+    position: absolute;
+    margin-left: 1090px;
+    margin-top: 380px;
+    width: 249px;
+    height: 82px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.background1 {
+    left: 140px;
+    top: 600px;
+    width: 197px;
+    height: 45px;
+    position: absolute;
+    background: #1B2CC1;
+    border-radius: 2px;
+}
+
+.button1 {
+    color: #FFF;
+margin-left: 30px;
+margin-top: 10px;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.background2 {
+    left: 460px;
+    top: 600px;
+    width: 197px;
+    height: 45px;
+    position: absolute;
+    background: #1B2CC1;
+    border-radius: 2px;
+}
+
+.button2 {
+    color: #FFF;
+margin-left: 30px;
+margin-top: 10px;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.background3 {
+    left: 780px;
+    top: 600px;
+    width: 197px;
+    height: 45px;
+    position: absolute;
+    background: #1B2CC1;
+    border-radius: 2px;
+}
+
+.button3 {
+    color: #FFF;
+margin-left: 30px;
+margin-top: 10px;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.background4 {
+    left: 1100px;
+    top: 600px;
+    width: 197px;
+    height: 45px;
+    position: absolute;
+    background: #1B2CC1;
+    border-radius: 2px;
+}
+
+.button4 {
+    color: #FFF;
+margin-left: 30px;
+margin-top: 10px;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.point {
+    top: 700px;
+    left: 660px;
+    position: absolute;
+}
+.arrow1{
+    top: 400px;
+    left: 60px;
+    position: absolute;
+}
+.arrow2{
+    top: 400px;
+    left: 1390px;
+    position: absolute;
+}
+
+
+.courseofprog1 {
+    margin-left: 70px;
+    width: 935px;
+    height: 48px;
+    color: #000;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+
+.photo5 {
+    top: 164px;
+    left: 140px;
+    width: 271px;
+    position: absolute;
+    height: 246px;
+    background: #D9D9D9;
+
+}
+
+.photo6 {
+    top: 164px;
+    left: 460px;
+    width: 271px;
+    height: 246px;
+    background: #D9D9D9;
+    position: absolute;
+}
+
+.photo7 {
+    top: 164px;
+    left: 780px;
+    width: 271px;
+    height: 246px;
+    background: #D9D9D9;
+    position: absolute;
+}
+
+.photo8 {
+    top: 164px;
+    left: 1100px;
+    width: 271px;
+    height: 246px;
+    background: #D9D9D9;
+    position: absolute;
+}
+
+.Text_To_photo1 {
+
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 300px;
+    width: 259px;
+    height: 48px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Mulish;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo2 {
+
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 300px;
+    width: 259px;
+    height: 48px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Mulish;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo3 {
+
+    position: absolute;
+    margin-left: 770px;
+    margin-top: 300px;
+    width: 259px;
+    height: 48px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Mulish;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo4 {
+
+    position: absolute;
+    margin-left: 1090px;
+    margin-top: 300px;
+    width: 259px;
+    height: 48px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Mulish;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo1_under {
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 380px;
+    width: 249px;
+    height: 82px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo2_under {
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 380px;
+    width: 249px;
+    height: 82px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo3_under {
+    position: absolute;
+    margin-left: 770px;
+    margin-top: 380px;
+    width: 249px;
+    height: 82px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo4_under {
+    position: absolute;
+    margin-left: 1090px;
+    margin-top: 380px;
+    width: 249px;
+    height: 82px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.background1 {
+    left: 140px;
+    top: 600px;
+    width: 197px;
+    height: 45px;
+    position: absolute;
+    background: #1B2CC1;
+    border-radius: 2px;
+}
+
+.button1 {
+    color: #FFF;
+margin-left: 30px;
+margin-top: 10px;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.background2 {
+    left: 460px;
+    top: 600px;
+    width: 197px;
+    height: 45px;
+    position: absolute;
+    background: #1B2CC1;
+    border-radius: 2px;
+}
+
+.button2 {
+    color: #FFF;
+margin-left: 30px;
+margin-top: 10px;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.background3 {
+    left: 780px;
+    top: 600px;
+    width: 197px;
+    height: 45px;
+    position: absolute;
+    background: #1B2CC1;
+    border-radius: 2px;
+}
+
+.button3 {
+    color: #FFF;
+margin-left: 30px;
+margin-top: 10px;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.background4 {
+    left: 1100px;
+    top: 600px;
+    width: 197px;
+    height: 45px;
+    position: absolute;
+    background: #1B2CC1;
+    border-radius: 2px;
+}
+
+.button4 {
+    color: #FFF;
+margin-left: 30px;
+margin-top: 10px;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.point {
+    top: 700px;
+    left: 660px;
+    position: absolute;
+}
+.arrow1{
+    top: 400px;
+    left: 60px;
+    position: absolute;
+}
+.arrow2{
+    top: 400px;
+    left: 1390px;
+    position: absolute;
+}
+.courseofprog1 {
+    margin-left: 70px;
+    margin-top: 750px;
+    width: 935px;
+    height: 48px;
+    color: #000;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+.photo5 {
+    top: 950px;
+    left: 140px;
+    width: 271px;
+    position: absolute;
+    height: 246px;
+    background: #D9D9D9;
+
+}
+
+.photo6 {
+    top: 950px;
+    left: 460px;
+    width: 271px;
+    height: 246px;
+    background: #D9D9D9;
+    position: absolute;
+}
+
+.photo7 {
+    top: 950px;
+    left: 780px;
+    width: 271px;
+    height: 246px;
+    background: #D9D9D9;
+    position: absolute;
+}
+
+.photo8 {
+    top: 950px;
+    left: 1100px;
+    width: 271px;
+    height: 246px;
+    background: #D9D9D9;
+    position: absolute;
+}
+.Text_To_photo5 {
+
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 300px;
+    width: 259px;
+    height: 48px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Mulish;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo6 {
+
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 300px;
+    width: 259px;
+    height: 48px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Mulish;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo7 {
+
+    position: absolute;
+    margin-left: 770px;
+    margin-top: 300px;
+    width: 259px;
+    height: 48px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Mulish;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo8 {
+
+    position: absolute;
+    margin-left: 1090px;
+    margin-top: 300px;
+    width: 259px;
+    height: 48px;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Mulish;
+    line-height: normal;
+    word-wrap: break-word;
+}
+.Text_To_photo5_under {
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 380px;
+    width: 249px;
+    height: 82px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo6_under {
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 380px;
+    width: 249px;
+    height: 82px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo7_under {
+    position: absolute;
+    margin-left: 770px;
+    margin-top: 380px;
+    width: 249px;
+    height: 82px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+
+.Text_To_photo8_under {
+    position: absolute;
+    margin-left: 1090px;
+    margin-top: 380px;
+    width: 249px;
+    height: 82px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    word-wrap: break-word;
+}
+.background5 {
+    left: 140px;
+    top: 1400px;
+    width: 197px;
+    height: 45px;
+    position: absolute;
+    background: #1B2CC1;
+    border-radius: 2px;
+}
+
+.button5 {
+    color: #FFF;
+margin-left: 30px;
+margin-top: 10px;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.background6 {
+    left: 460px;
+    top: 1400px;
+    width: 197px;
+    height: 45px;
+    position: absolute;
+    background: #1B2CC1;
+    border-radius: 2px;
+}
+
+.button6 {
+    color: #FFF;
+margin-left: 30px;
+margin-top: 10px;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.background7 {
+    left: 780px;
+    top: 1400px;
+    width: 197px;
+    height: 45px;
+    position: absolute;
+    background: #1B2CC1;
+    border-radius: 2px;
+}
+
+.button7 {
+    color: #FFF;
+margin-left: 30px;
+margin-top: 10px;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.background8 {
+    left: 1100px;
+    top: 1400px;
+    width: 197px;
+    height: 45px;
+    position: absolute;
+    background: #1B2CC1;
+    border-radius: 2px;
+}
+
+.button8 {
+    color: #FFF;
+margin-left: 30px;
+margin-top: 10px;
+    font-family: Mulish;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.point1 {
+    top: 1490px;
+    left: 660px;
+    position: absolute;
+}
+.arrow3{
+    top: 1190px;
+    left: 60px;
+    position: absolute;
+}
+.arrow4{
+    top: 1190px;
+    left: 1390px;
+    position: absolute;
+}
