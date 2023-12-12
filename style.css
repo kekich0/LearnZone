@@ -11,6 +11,14 @@
     position: absolute; 
 }
 
+.nimage{
+    width: 390px;
+    height: 552px;
+    top: 413px;
+    right: 65px;
+    position: absolute;
+}
+
 .bg2{
     width: 1440px; 
     height: 949px; 
@@ -75,7 +83,7 @@
     width: 133px; 
     height: 13px; 
     left: 32px; 
-    top: 16px; 
+    top: 13px; 
     position: absolute; 
     color: white; 
     font-size: 20px; 
@@ -294,7 +302,7 @@
 }
 
 .H2{
-    width: 257px; 
+    width: 400px; 
     height: 40px; 
     position: absolute; 
     color: black; 
